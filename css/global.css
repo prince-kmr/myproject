@@ -3,34 +3,6 @@ body, .main {
     margin: 0;
 }
 
-iframe {
-    border: none;
-    width: 100%;
-}
-
-.header, .footer {
-    height: 20%;
-    width: 100%;
-    border: 1px solid #f00;
-}
-
-.body {
-    display: flex;
-}
-.aside {
-    float: left;
-    height: auto;
-    width: 20%;
-    border: 1px solid #ab0;
-    flex-direction: column;
-}
-/* 
-.aside-list {
-    list-style-type: none;
-} */
-
-.content {
-    height: auto;
-    width: 80%;
-    border: 1px solid #455;
+.main {
+    color: Red;
 }
